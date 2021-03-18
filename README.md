@@ -1,6 +1,6 @@
 # Developing-Data-Products-R-Markdown-Presentation-Plotly
 
-## This is a repo with the gh-pages branch. The HTML page can be viewed online by clicking [on this Github Pages link.](ewalker711.neocities.org)
+## This is a repo with the gh-pages branch. The HTML page can be viewed online by clicking [on this Github Pages link.](https://ewalker711.neocities.org/#1)
 
 ## R markdown and compiled HTML (Source code) files can be found in the repository itself.
 
